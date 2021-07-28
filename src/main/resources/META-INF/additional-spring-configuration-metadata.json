@@ -1,8 +1,0 @@
-{
-  "properties": [
-    {
-      "name": "greeting",
-      "type": "java.lang.String",
-      "description": "Description for greeting."
-    }
-  ] }
